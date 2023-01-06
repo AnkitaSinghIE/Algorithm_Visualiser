@@ -1,5 +1,5 @@
 # Algorithm_Visualiser
-###  Project on the deomonstration of Basic Algorithm based on data structure
+###  Project on the demonstration of Basic Algorithm based on data structure
 #### Technology Used : HTML,CSS,JavaScript
 # Project 
 1. N-Queens Problem
